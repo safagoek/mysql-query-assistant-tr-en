@@ -1,4 +1,4 @@
-No problem, here's the English translation of the GitHub repository README:
+:
 
 # MySQL Query Assistant
 
